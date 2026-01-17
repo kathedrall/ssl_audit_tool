@@ -26,7 +26,8 @@ go.work.sum
 
 # env file
 .env
-
+report.csv
+ips.txt
 # Editor/IDE
 # .idea/
 # .vscode/
